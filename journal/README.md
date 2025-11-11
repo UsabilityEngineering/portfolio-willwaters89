@@ -11,4 +11,17 @@ To change your daily calories simply click the middle panel displaying your rema
 ![MyFitnessPal Screenshot](thumbnail_image2.png)
 ![MyFitnessPal Screenshot](thumbnail_image1.png)
 
+To add food to your daily journal, tap the diary icon on the bottom left of the screen. You will then be taken to a page which displays sections for breakfast, lunch, dinner, and snacks. 
+To add items to your journal, click the ‘add food’ label under the time of day you would like, and then simply search in the search box of what food you would like the add.
+
+![MyFitnessPal Screenshot](thumbnail_image3.png)
+![MyFitnessPal Screenshot](thumbnail_image4.png)
+![MyFitnessPal Screenshot](thumbnail_image5.png)
+
+ Click the plus icon next to the food item to prompt a new screen which will then ask for the serving size and number of servings consumed. Then click the checkmark on the top right to add the food item to your journal. \
+
+![MyFitnessPal Screenshot](image6.png)
+![MyFitnessPal Screenshot](thumbnail_image7.png)
+
+
 
