@@ -23,7 +23,7 @@ To add items to your journal, click the ‘add food’ label under the time of d
 ![MyFitnessPal Screenshot](image6.png)
 ![MyFitnessPal Screenshot](thumbnail_image7.png)
 
-I found the application to be error tolerant since if you make a mistake, you can simply click the food item to edit your entries, or simply swipe left  on the food item to delete the entry.
+I found the application to be **error tolerant** since if you make a mistake, you can simply click the food item to edit your entries, or simply swipe left  on the food item to delete the entry.
 
 
 
