@@ -5,4 +5,10 @@ To start, simple open your smartphone’s app store and type in “MyFitnessPal�
 
 ![MyFitnessPal Screenshot](image0.png)
 
+To change your daily calories simply click the middle panel displaying your remaining calories, click goal, and then you have the option to adjust calories as well as your macronutrients.      
+
+![MyFitnessPal Screenshot](image0.png)
+![MyFitnessPal Screenshot](thumbnail_image2.png)
+![MyFitnessPal Screenshot](thumbnail_image1.png)
+
 
