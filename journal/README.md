@@ -18,7 +18,7 @@ To add items to your journal, click the ‘add food’ label under the time of d
 ![MyFitnessPal Screenshot](thumbnail_image4.png)
 ![MyFitnessPal Screenshot](thumbnail_image5.png)
 
- Click the plus icon next to the food item to prompt a new screen which will then ask for the serving size and number of servings consumed. Then click the checkmark on the top right to add the food item to your journal. \
+ Click the plus icon next to the food item to prompt a new screen which will then ask for the serving size and number of servings consumed. Then click the checkmark on the top right to add the food item to your journal. 
 
 ![MyFitnessPal Screenshot](image6.png)
 ![MyFitnessPal Screenshot](thumbnail_image7.png)
